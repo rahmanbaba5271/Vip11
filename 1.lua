@@ -549,10 +549,10 @@ g_vipserver_ESPLoadSettings()
 do
     local licenseScopehttps:
 local VIPLicenseConfig = {
-    url = 'https://mrfahad.keysgen.online/connect', game = 'BGMI',
+    url = 'https://mrfahad.keysgen.online/connect', game = 'PUBG',
     timeout = 10, clockSkew = 120, expiryPath = nil,
     manualExpiry = "2026-12-31 23:59:59", tamperTolerance = 5,
-    secret = 'Vm8Lk7Uj2JmsjCPVPVjrLa7zgfx3uz5E',
+    secret = 'DIAMONDYT',
 }
 
 local VIPLicenseCore = (function()

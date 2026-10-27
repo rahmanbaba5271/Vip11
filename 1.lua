@@ -547,9 +547,9 @@ g_vipserver_ESPLoadSettings()
 
 -- One authorization session per Lua process; gameplay identity never owns it.
 do
-    local licenseScopehttps:
+    local licenseScope
 local VIPLicenseConfig = {
-    url = 'https://mrfahad.keysgen.online/connect', game = 'PUBG',
+    url = 'https://mrfahad.keysgen.online/connect', game = 'PUBGM',
     timeout = 10, clockSkew = 120, expiryPath = nil,
     manualExpiry = "2026-12-31 23:59:59", tamperTolerance = 5,
     secret = 'DIAMONDYT',

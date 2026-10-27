@@ -547,9 +547,9 @@ g_vipserver_ESPLoadSettings()
 
 -- One authorization session per Lua process; gameplay identity never owns it.
 do
-    local licenseScope
+    local licenseScopehttps:
 local VIPLicenseConfig = {
-    url = 'https://key.authapi.xyz/server', game = 'BGMI',
+    url = 'https://mrfahad.keysgen.online/connect', game = 'BGMI',
     timeout = 10, clockSkew = 120, expiryPath = nil,
     manualExpiry = "2026-12-31 23:59:59", tamperTolerance = 5,
     secret = 'Vm8Lk7Uj2JmsjCPVPVjrLa7zgfx3uz5E',
